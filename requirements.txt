@@ -1,5 +1,3 @@
 sklearn
 pandas
 numpy
-json
-xgboost
