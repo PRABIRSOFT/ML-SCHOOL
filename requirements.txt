@@ -1,3 +1,2 @@
-sklearn
 pandas
 numpy
